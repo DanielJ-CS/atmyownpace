@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: "AMOP: My Progress In Coding", // <title>
   shortSiteTitle: "AMOP: My Progress In Coding", // <title> ending for posts and pages
   siteDescription: "AMOP is a Gatsby Website",
-  siteUrl: "",
+  siteUrl: "https://nifty-albattani-7b263e.netlify.com",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
@@ -31,9 +31,9 @@ module.exports = {
   gravatarImgMd5: "",
 
   // social
-   authorSocialLinks: [
-     { name: "github", url: "https://github.com/greglobinski" },
-     { name: "twitter", url: "https://twitter.com/greglobinski" },
-     { name: "facebook", url: "http://facebook.com/greglobinski" }
-   ]
+  //  authorSocialLinks: [
+  //    { name: "github", url: "https://github.com/greglobinski" },
+  //    { name: "twitter", url: "https://twitter.com/greglobinski" },
+  //    { name: "facebook", url: "http://facebook.com/greglobinski" }
+  //  ]
 };
