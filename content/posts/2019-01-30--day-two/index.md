@@ -1,6 +1,6 @@
 ---
 title: Day Two - Island Perimeter
-category: "DFS"
+category: "Iterative"
 cover: day2.png
 author: Daniel Jiang
 ---
