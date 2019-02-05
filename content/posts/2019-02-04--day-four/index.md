@@ -136,4 +136,6 @@ function search(root, x, y) {
 <br />
 <br />
 
+Side note is that the searching in BST takes O(log n) time and so should this algorithm.
+
 There is pretty much one way to do this question so we are skipping the solution. Anyway, this is the intro question to BST with more to come.
