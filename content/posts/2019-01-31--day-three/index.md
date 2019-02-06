@@ -7,9 +7,7 @@ author: Daniel Jiang
 
 The question for today is:
 
-<code>
-
-You're now a baseball game point recorder.
+<code>You're now a baseball game point recorder.
 Given a list of strings, each string can be one of the 4 following types:<br>
 
 1.)Integer (one round's score): Directly represents the number of points you get in this round.
@@ -21,8 +19,7 @@ Given a list of strings, each string can be one of the 4 following types:<br>
 4.) "C" (an operation, which isn't a round's score): Represents the last valid round's points you get were invalid and should be removed.
 
 Each round's operation is permanent and could have an impact on the round before and the round after.
-You need to return the sum of the points you could get in all the rounds.
-</code>
+You need to return the sum of the points you could get in all the rounds.</code>
 <br />
 <br />
 With examples:

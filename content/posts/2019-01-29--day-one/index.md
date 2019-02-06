@@ -6,12 +6,10 @@ author: Daniel Jiang
 ---
 The question for today comes from leetcode:
 
-<code>
-We are given two sentences A and B. 
+<code>We are given two sentences A and B. 
 A word is uncommon if it appears exactly once in one of the sentences, and does not appear in the other sentence.
 Return a list of all uncommon words. 
-You may return the list in any order.
-</code>
+You may return the list in any order.</code>
 <br />
 <br />
 Well, let's look at some examples to make sense of what we are inputting and outputting.
